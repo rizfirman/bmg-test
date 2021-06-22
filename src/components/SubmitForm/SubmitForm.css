@@ -1,0 +1,11 @@
+.card-submit {
+  width: 800px;
+  position: absolute;
+  top: 35%;
+  left: 20%;
+}
+
+.card-submit a {
+  color: #fff;
+  text-decoration: none;
+}

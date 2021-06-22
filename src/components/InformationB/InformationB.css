@@ -1,0 +1,40 @@
+.informationB {
+  background-color: #FF7314;
+}
+
+.informationB label,
+.informationB h1 {
+  color: #393534;
+}
+
+.infoB-card {
+  width: 500px;
+  left: 30%;
+  background: #fff;
+  padding-top: 50px;
+  background-color: #FF7314;
+}
+
+.radio-area {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+label {
+  font-weight: bold;
+}
+
+.address-field {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.mobile {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.btn-area {
+  margin-left: 20px;
+  margin-right: 20px;
+}

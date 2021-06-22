@@ -1,0 +1,23 @@
+.review-form {
+  background-color: #FF7314;
+}
+
+.review-form label,
+.review-form h1 {
+  color: #393534;
+}
+
+
+.review-card {
+  width: 500px;
+  left: 30%;
+  background: #fff;
+  padding-top: 50px;
+  background-color: #FF7314;
+}
+
+.review-detail h3 {
+  padding-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
